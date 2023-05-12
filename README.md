@@ -1,2 +1,3 @@
-# PRO-C22-wireframe
-wire frame for c22 
+#última etapa do jogo invasão pirata
+#efeitos sonoros
+#fim de jogo
